@@ -20,6 +20,10 @@ header {
     background: transparent;
 }
 
+body {
+    background: red;
+}
+
 .logo {
     font-size: 30px;
     font-weight: 700;
