@@ -63,3 +63,7 @@ header {
     align-items: center;
     gap: 2rem;
 }
+
+section {
+    padding: 0 19%;
+}
