@@ -74,3 +74,11 @@ section {
     color: white;
     margin: 40px;
 }
+
+.hero-text h1 {
+    font-family: 'Permanent Marker', cursive;
+    font-size: 90px;
+    line-height: 1;
+    color: white;
+    margin: 0 0 45px;
+}
