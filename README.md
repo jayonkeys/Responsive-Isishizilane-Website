@@ -1,2 +1,2 @@
-# Responsive-Meditation-Website
+# Responsive-Isishizilane-Website
  
