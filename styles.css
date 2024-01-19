@@ -94,3 +94,11 @@ section {
     width: 400px;
     height: auto;
 }
+
+.hero-text a {
+    display: inline-block;
+    color: white;
+    background: #4d9559;;
+    border: 1px solid transparent;
+    padding: 12px 30px;
+}
