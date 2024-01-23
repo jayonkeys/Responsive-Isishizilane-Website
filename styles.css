@@ -132,3 +132,10 @@ section {
     vertical-align: middle;
     margin-right: 5px;
 }
+
+.icons {
+    position: absolute;
+    top: 50%;
+    padding: 0 9%;
+    transform: translateY(-50%);
+}
