@@ -57,7 +57,7 @@ header {
     width: 100%;
     min-height: 100vh;
     background: rgb(0,0,0);
-    background: linear-gradient(25deg, rgba(0,0,0,1) 35%, rgba(167,166,166,1) 81%, rgba(252,254,255,1) 100%);
+    background: linear-gradient(25deg, rgba(0,0,0,1) 27%, rgba(252,252,252,1) 69%, rgba(5,5,5,1) 94%);
     position: relative;
     display: grid;
     grid-template-columns: repeat(2, 1fr);
