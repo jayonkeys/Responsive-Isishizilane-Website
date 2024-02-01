@@ -263,5 +263,12 @@ section {
         align-items: center;
         flex-direction: column;
         padding: 50px 20px;
+        transition: all .55s ease;
+    }
+
+    .navlist a {
+        margin-left: 0;
+        display: block;
+        margin: 10px 0;
     }
 }
