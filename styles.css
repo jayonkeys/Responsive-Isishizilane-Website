@@ -276,3 +276,10 @@ section {
         right: 0;
     }
 }
+
+@media (max-width: 680px) {
+    .hero-img img{
+        width: 100%;
+        height: auto;
+    }
+}
