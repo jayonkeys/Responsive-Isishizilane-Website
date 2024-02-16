@@ -283,4 +283,8 @@ section {
         width: 100%;
         height: auto;
     }
+
+    .hero-text h1 {
+        font-size: 25px;
+    }
 }
