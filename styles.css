@@ -70,10 +70,11 @@ section {
 }
 
 .hero-text h5 {
-    font-size: 14px;
-    font-weight: 100;
+    font-size: 30px;
+    font-weight: 600;
     color: white;
-    margin: 40px;
+    margin: 5px;
+    margin-left: 0;
 }
 
 .hero-text h1 {
