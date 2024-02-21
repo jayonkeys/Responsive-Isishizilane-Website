@@ -288,4 +288,9 @@ section {
     .hero-text h1 {
         font-size: 25px;
     }
+
+    .hero {
+        background: rgb(255,255,255);
+        background: linear-gradient(0deg, rgba(255,255,255,1) 10%, rgba(92,92,92,1) 20%, rgba(77,77,77,1) 30%, rgba(0,0,0,0.9920343137254902) 40%);
+    }
 }
