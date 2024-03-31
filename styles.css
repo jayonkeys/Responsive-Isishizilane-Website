@@ -175,6 +175,10 @@ section {
     transform: translateY(-5px);
 }
 
+.artist-img {
+    border-radius: 50%;
+}
+
 @media (max-width: 1535px) {
     header {
         padding: 15px 3%;
