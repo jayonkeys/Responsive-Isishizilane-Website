@@ -175,8 +175,13 @@ section {
     transform: translateY(-5px);
 }
 
+.artist {
+    border: 2px solid white;
+}
+
 .artist-img {
     border-radius: 50%;
+    width: 160px;
 }
 
 @media (max-width: 1535px) {
