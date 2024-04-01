@@ -52,7 +52,7 @@ header {
     display: none;
 }
 
-.hero body {
+.hero {
     height: 100%;
     width: 100%;
     min-height: 100vh;
@@ -63,6 +63,14 @@ header {
     grid-template-columns: repeat(2, 1fr);
     align-items: center;
     gap: 2rem;
+}
+
+body {
+    height: 100%;
+    width: 100%;
+    min-height: 100vh;
+    background: rgb(0,0,0);
+    background: linear-gradient(25deg, rgba(0,0,0,1) 27%, rgba(252,252,252,1) 69%, rgba(5,5,5,1) 94%);
 }
 
 section {
