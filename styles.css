@@ -310,22 +310,7 @@ section {
     }
 
     .icons {
-        position: fixed;
-        bottom: 0;
-        padding: 0 9%;
-        transform: translateY(-50%);
+        display: none;
     }
     
-    .icons i {
-        display: block;
-        margin: 26px 0;
-        font-size: 24px;
-        color: white;
-        transition: all .55sS ease;
-    }
-    
-    .icons i:hover {
-        color: #000000;
-        transform: translateY(-5px);
-    }
 }
