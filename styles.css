@@ -185,6 +185,10 @@ section {
 
 .artist {
     border: 2px solid white;
+    background-color: white;
+    width: 400px;
+    height: 500px;
+    margin: 7%;
 }
 
 .artist-img {
