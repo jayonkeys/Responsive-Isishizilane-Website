@@ -189,6 +189,8 @@ section {
     height: 500px;
     margin: 7%;
     border-radius: 5%;
+    display: flex;
+    justify-content: center;
 }
 
 .artist-img {
